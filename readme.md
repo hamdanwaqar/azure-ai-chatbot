@@ -1,5 +1,3 @@
-# Project README
-
 ## Overview
 
 This project integrates OpenAI’s API with Azure Cognitive Search to build a document search and Q&A system. The project allows users to search for specific documents or information based on a unique identifier (SKU ID) or textual input, retrieves relevant document excerpts from Azure Cognitive Search, and then uses OpenAI’s GPT models to generate responses based on the retrieved content.
